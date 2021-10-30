@@ -1,0 +1,37 @@
+*{
+    padding:0px;
+    margin:0px;
+    border: red 2px solid;
+}
+
+
+
+.dark-backgoud-color{
+    background-color: #1F2937;;
+}
+
+.hero-main-text{
+    font: 48px bolder #F9FAF8;
+}
+
+.hero-secondary-text, .header-link-text{
+    font: 18px #E5E7EB;
+}
+
+.header-logo-text{
+    font:24px #F9FAF8;
+}
+
+.button-color, .call-to-action-background-color{
+    background-color:#3882F6;
+}
+.information-header-text{
+    font: 36px bolder #1F2937;
+}
+.quote-section-background-color{
+    background-color: #E5E7EB;
+}
+.quote-text-font{
+    font: 36px bolder #1F2937;
+}
+
